@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "684337715240",
+    "project_id": "animelist-e0e4e",
+    "storage_bucket": "animelist-e0e4e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684337715240:android:4b637cf4730dd83c983d1d",
+        "android_client_info": {
+          "package_name": "com.example.jikan_api2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb4gBBqVmfzo-5-4TBWSgPlLBd4vnaWMg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
